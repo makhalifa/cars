@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>553772770718-fd9jn7j8le5e86up42838ro2m77gi9a5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.553772770718-fd9jn7j8le5e86up42838ro2m77gi9a5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXC57n3Aastt84a-HIQVgq1MhMMbegoKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>553772770718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cars</string>
+	<key>PROJECT_ID</key>
+	<string>cark-2ff2e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cark-2ff2e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:553772770718:ios:c6acc31feb1eac15cca28f</string>
+	<key>DATABASE_URL</key>
+	<string>https://cark-2ff2e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
